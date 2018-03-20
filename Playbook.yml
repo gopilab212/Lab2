@@ -1,1 +1,7 @@
-Test Playbook
+---
+- hosts:  
+  vars:
+    http_port: 80
+    maxclients: 200
+
+    
